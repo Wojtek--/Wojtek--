@@ -30,9 +30,7 @@ I'm passionate about software development and solving real-world problems with c
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wojtek--&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Wojtek--&show_icons=true&theme=tokyonight" />
-  <br/>
+  ![Metrics](https://raw.githubusercontent.com/Wojtek--/Wojtek--/main/github-metrics.svg)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wojtek--&theme=tokyonight" />
 </p>
 
